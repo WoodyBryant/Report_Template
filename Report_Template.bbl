@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Stone_1998}
+\bibauthor{STONE J~A\@, HOWARD L~P}\@. \bibtitle{A simple technique for
+  observing periodic nonlinearities in Michelson
+  interferometers}\bibmark{[J]}\@. \bibjournal{Precision Engineering}\@,
+  \bibyear{1998}\@, \bibvolume{22}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{220\thinspace{}\textnormal{--}\thinspace{}232}\@.
+
+\bibitem{9787508342894}
+\bibauthor{朱印红\@, 袁衍明}\@.
+  \bibbooktitle{Dreamweaver完美网页设计——技术入门篇}\bibmark{[M]}\@.
+  \bibedition{\mbox{第一版}}\@. \bibaddress{北京}\thinspace{}\textnormal{:
+  }\bibpublisher{中国电力出版社}\@,
+  \bibyear{2006}\thinspace{}\textnormal{:
+  }\bibpages{19\thinspace{}\textnormal{--}\thinspace{}20}\@.
+
+\bibitem{huagongrenzheng2014}
+\bibauthor{王静康\@, 张凤宝\@, 夏淑倩, 等}\@.
+  \bibtitle{论化工本科专业国际认证与国内认证的“实质性”}\bibmark{[J]}\@.
+  \bibjournal{高等工程教育研究}\@, \bibyear{2014}\@,
+  \bibvolume{5}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}4}\@.
+
+\bibitem{9780124467422}
+\bibauthor{LEWIS J~S}\@. \bibbooktitle{Physics and Chemistry of the Solar
+  System, Revised Edition}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{ACADEMIC PR
+  INC}\@, \bibyear{1997}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}2}\@.
+
+\bibitem{bamboosilk}
+\bibauthor{陈剑}\@.
+  \bibtitle{上博简《民之父母》“而得既塞於四海矣”句解释}\bibmark{[EB/OL]}\@.
+  \bibpublisher{简帛研究网站}\@,  \bibcitedate{[2003-01-18]}\@.
+  \newline\url{http://www.bamboosilk.org/Wssf/2003/chenjian03.htm}\@.
+
+\end{thebibliography}
