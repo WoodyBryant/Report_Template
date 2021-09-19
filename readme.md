@@ -8,4 +8,4 @@
 
 2 修改tex中的个人信息，包括标题，姓名等
 
-3修改Report_Template\Bibs下的文献信息
+3 修改Report_Template\Bibs下的文献信息
